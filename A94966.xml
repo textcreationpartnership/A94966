@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect relation of the manner of the apprehension and taking of 46. rebellious cavalliers at Brackly in Northamptonshire, under the command of Sir John Byron Colonell, who were surprised by the Lord Brookes his regiment, and first committed to the goale of Northampton for ten dayes space, aud [sic] from thence brought up to Newgate, being men of severall counties, intended for mischiefe and spoyle against the Parliament, and the Protestant religion, with a catalogue of the names of every particular person as they were delivered to the sheriffe of Middlesex in a list. Whereunto is annexed the true coppy of a letter from Sir John Byron Colonell to Master Clarke at Draughton neere Brackly in Northamptonshire. Ordered by the Lords and Commons in Parliament, that this be published. Septemb. 14. I. Browne Cler. Parliam.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94966</idno>
+            <idno type="STC">Wing T2561</idno>
+            <idno type="STC">Thomason E117_11</idno>
+            <idno type="STC">ESTC R18179</idno>
+            <idno type="EEBO-CITATION">99860362</idno>
+            <idno type="PROQUEST">99860362</idno>
+            <idno type="VID">156069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156069)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E117[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect relation of the manner of the apprehension and taking of 46. rebellious cavalliers at Brackly in Northamptonshire, under the command of Sir John Byron Colonell, who were surprised by the Lord Brookes his regiment, and first committed to the goale of Northampton for ten dayes space, aud [sic] from thence brought up to Newgate, being men of severall counties, intended for mischiefe and spoyle against the Parliament, and the Protestant religion, with a catalogue of the names of every particular person as they were delivered to the sheriffe of Middlesex in a list. Whereunto is annexed the true coppy of a letter from Sir John Byron Colonell to Master Clarke at Draughton neere Brackly in Northamptonshire. Ordered by the Lords and Commons in Parliament, that this be published. Septemb. 14. I. Browne Cler. Parliam.</title>
+                  <author>Byron, John Byron, Baron, 1598 or 9-1652.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Thomas Bates, at his shop in the Old Baily,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Sep: 15".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brooke, Robert Greville, --  Baron, 1607-1643.</term>
+               <term>Byron, John Byron, --  Baron, 1598 or 9-1652.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156069:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>A true and perfect RELATION of The manner of the ap<g ref="char:EOLhyphen"/>prehenſion and taking of 46. rebellious Cavalliers at Brackly in Nor<g ref="char:EOLhyphen"/>thamptonſhire, under the Command of ſir <hi>John Byron</hi> Colonell, who were ſurpriſed by the Lord <hi>Brookes</hi> his Regiment, and firſt committed to the Goale of Northampton for ten dayes ſpace, and from thence brought up to Newgate, being men of ſeverall Counties, intended for miſchiefe and ſpoyle againſt the Parliament, and the Proteſtant Religion, with a Catalogue of the names of every particular perſon as they were delivered to the Sheriffe of Middleſex in a Lift.</p>
+            <p>Whereunto is annexed the true Coppy of a Letter from Sir <hi>John Byron</hi> Colonell to Maſter <hi>Clarke</hi> at Draughton neere Brackly in Northamptonſhire.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Lords and Commons in Parliament, that this be publiſhed.</p>
+                        <closer>
+                           <dateline>
+                              <date>Septemb. 14.</date>
+                           </dateline>
+                           <signed>
+                              <hi>I. Browne</hi> Cler. Parliam.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at London for <hi>Thomas Bates,</hi> at his Shop in the Old Baily. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_battle">
+            <pb facs="tcp:156069:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="1" facs="tcp:156069:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>A perfect and exact Relation of the famous and valient Fight of Sir <hi>John Byron</hi> Colonell of 3. Troopes of Horſe at Brackly in Northamtonſhire, with a Declaration how above 60. Cavalliers were taken, and much Gold, Ap<g ref="char:EOLhyphen"/>parrell, and other Riches to the value of 8000. pound, which Cavalliers were ſent up to Newgate in Carts; where they doe now remaine.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir <hi>Iohn Byron</hi> with his two Brothers, was marching from Leiceſter to Oxford with three Troopes of Horſe, he being the Colonell, and his two brothers each of them led a Troope, who promiſed the Souldiers that they ſhould do ſervice for King and Parliament, and that they ſhould fight for Religion; and the upholding of the happineſſe, and tranquallity of the Kingdome; and ſo by faire ſpeeches perſwaded the Souldiers to beleeve that they ſhould goe for the King and Parliament, and they received monies to buy them Horſe, and were all provided of Horſe, but not of Armes nor proviſion; and ſo they marched from Leiceſter towards Oxford, tidings whereof was brought to the Officers and Governours in the Country, and thereupon the Country was raiſed, and purſued them with the greateſt force, and all expedition they could till they came to brackly, where newes was brought to Sir <hi>Iohn Byron</hi> that it was high time to looke about him, f<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the Country was in purſuite after them, and that if they
+<pb n="4" facs="tcp:156069:3"/>
+               <!-- PDF PAGE 33 -->made not great haſt they would all be taken; which ſtruck ſuch an amazement into ſir <hi>Iohn,</hi> and the Commanders, that they knew not what to doe.</p>
+            <p>So the Colonell, Captaines, and the reſt of the Officers made the greateſt haſt to flye away that could be, not ca<g ref="char:EOLhyphen"/>ring either for eſtate, or ſouldiers, ſo that they could ſave themſelves, and ſo the moſt of them fled away.</p>
+            <p>This was on Sunday the 28. of <hi>Auguſt</hi> laſt, at which time the Country came into <hi>Brackeley</hi> upon them; and did there take many of them, to the number of about 60. with much wealth and many horſes.</p>
+            <list>
+               <head>A Catalogue of what was taken, <hi>viz.</hi>
+               </head>
+               <item>1. <hi>Above</hi> 60. <hi>horſe.</hi>
+               </item>
+               <item>2. <hi>two hatfull of gold.</hi>
+               </item>
+               <item>3. <hi>About</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>000. <hi>pound in ſilver.</hi>
+               </item>
+               <item>4. <hi>a Trumpet.</hi>
+               </item>
+               <item>5. <hi>a boxe with great riches and wealth.</hi>
+               </item>
+               <item>6. <hi>a packet of rich cloaths of Sir</hi> Iohn Byrons <hi>worth</hi> 200. <hi>pound.</hi>
+               </item>
+               <item>7. <hi>about</hi> 14 <hi>or</hi> 15 <hi>paire of pi<g ref="char:EOLhyphen"/>ſtols.</hi>
+               </item>
+               <item>8. <hi>a Sumptor horſe of Sir</hi> Iohn Byrons <hi>very rich.</hi>
+               </item>
+               <item>9. <hi>betwixt</hi> 60. <hi>or</hi> 70. <hi>men.</hi>
+               </item>
+               <item>10. <hi>The value of all the gold, mony, horſe, and aparrell, with other things, cannot be worth leſſe then</hi> 6 <hi>or</hi> 8000. <hi>pound.</hi>
+               </item>
+            </list>
+            <p>Theſe men were taken, had all their money taken from them, ſo that they have ſince that time lived on the chari<g ref="char:EOLhyphen"/>ty of ſuch as ſend them releefe.</p>
+            <p>They were then ſent to the priſon in Northampton, for the ſpace of about 8. or 9. dayes, and afterwards ſent up to New-gate, where they now lye.</p>
+            <p>They were brought to London in carts on Saturday the tenth of this preſent <hi>September,</hi> and newes being reported in the City that they were come, they were followed with a great acclamation and ſhouting, about 8 or nine of the clock at night they were brought to Newgate, where they
+<pb n="5" facs="tcp:156069:3"/>
+               <!-- PDF PAGE 33 -->do now lye in great miſery, and had they not relife ſent them in of charity, they might periſh.</p>
+            <p>It is every day and houre expected when 40. Cavalliers more (which are alſo taken) ſhall come to Newgate, or to ſome other priſon here in London, as it ſhall pleaſe au<g ref="char:EOLhyphen"/>thority to appoint.</p>
+            <div type="part">
+               <head>A Relation of the manner of the taking of theſe Cavalliers.</head>
+               <p>VVHen Sir <hi>Iohn Byron</hi> was at dinner in Brackly with his two brothers, and the reſt of the Comman<g ref="char:EOLhyphen"/>ders ſouldiers, ſome at that time with him, others at other places.</p>
+               <p>Sir <hi>Iohn</hi> gave his ſumpter man charge to haſt away with the ſumpter after dinner, and all the reſt to haſt away and looke every man to himſelfe.</p>
+               <p>Then hee tooke his owne horſe which was an excellent ſtout ſteed, <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd got up, ſet his ſpurs to the horſe ſides, and rid away with all might and maine, and ſo got away be<g ref="char:EOLhyphen"/>fore the Countrey came in.</p>
+               <p>Sir <hi>Iohns</hi> two brothers, the two Captaines alſo got up and haſted away, one of their Captains with a boxe wher<g ref="char:EOLhyphen"/>in was money, and other good things, they one way, and the other another way, alſo away as faſt as they could, and got away with others of the Commanders and ſouldiers, who haſted away ſo faſt, that whereas the Town was im<g ref="char:EOLhyphen"/>mediately before full of Souldiers, on a ſodain they were all gone.</p>
+               <p>The Countrey comming into the Town met 4. of the Cavalliers riding out of the Town, and commanded them to ſtay, who were forced to yeeld themſelves into their hands, and comming into the Towne, in the Innes there they found others of the Cavalliers who were likewiſe ta<g ref="char:EOLhyphen"/>ken
+<pb n="4" facs="tcp:156069:4"/>
+                  <!-- PDF PAGE 34 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:156069:4"/>
+                  <!-- PDF PAGE 34 -->
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:156069:5"/>
+                  <!-- PDF PAGE 35 -->by them, to Northampton, and from thence to Newgate,</p>
+               <p>And comming to the Inne where Sir <hi>John Byron</hi> and the Captaines had dined, there they found the ſumpter man loading of the ſumpter horſe, who ſeeing the people come in, ran into the ſtable, &amp; went about Oſtlers work, there, as if he had bin the Oſtler of the houſe, ſo they took away the Horſe, and all that was in the Sumpter, and went into the Stable, and there ſeeing him took him alſo.</p>
+               <p>Other Cavalliers were taken in other Country Towns neare adjacent thereabouts, who preſently yeelded them<g ref="char:EOLhyphen"/>ſelves into the Countries hands, for there was not any of them that did offer to ſtand out againſt the Country.</p>
+               <p>After they had taken as many as they could meet with of theſe Cavalliers, they ſtript them of their Cloaths, to ſee what money they had about them, and they found about ſome ten ſhillings, ſome twenty ſhillings, two pound, five pound, ſixe pound, ſome more, ſome leſſe, yet ſome of them was ſo cunning as to hide their monies in their Bootes, Dublet, or what private places they could finde out, and ſo did ſave the greateſt part of their monies.</p>
+               <p>But they were afterwards ſearched againe, becauſe this their ſubtilty was imagined, and then they found out a great deale more money than before about ſome of them, and when they had done they ſent them all to priſon.</p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </div>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:156069:5"/>
+            <!-- PDF PAGE 35 -->
+            <head>To Maſter <hi>Clarke</hi> at <hi>Craughton</hi> neere <hi>Brackley</hi> in <hi>Nor<g ref="char:EOLhyphen"/>thamptonſhire.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my way to <hi>Oxford,</hi> I made ſome ſtay at <hi>Brack<g ref="char:EOLhyphen"/>ley,</hi> to refreſh my ſelfe, and my horſes, after a long march, were I was unexpectedly aſſaulted by ſun<g ref="char:EOLhyphen"/>dry Troopes of Rebels that came (as I am ſince in<g ref="char:EOLhyphen"/>formed) from <hi>Northampton,</hi> and other adjoyning places, and withall moſt treacherouſly ſet upon by the Town of <hi>Brackley,</hi> ſo that I was forced to make a retreat to the Heath to reſiſt them, had they had the courage to come forth of the Towne. In this confuſion one of my Groomes who had charge of my baggage was ſurprized in the Towne, another who had a box, wherein was money, apparell, and other things of value, left it in a land of ſtanding corne, which ſince hath beene found, and as I heare brought to you; I have therfore ſent this Meſſenger to require the reſtitution of it; which if you doe, I ſhall repreſent at to his Ma<g ref="char:EOLhyphen"/>jeſty, as an acceptable ſervice, if not, aſſure your ſelfe I will find a time to repay my ſelfe with advantage out of your Eſtate; And conſider, that as Rebellion is a ſeed of a haſty growth, ſo it will decay as ſud<g ref="char:EOLhyphen"/>denly; and that there will be a time for the King's loyall Subjects to repaire their loſſes ſuſtained by rebels and traytors: So I reſt in ex<g ref="char:EOLhyphen"/>pectation of a ſpeedy anſwer by this bearer.</p>
+            <closer>
+               <dateline>Oxford <date>2. Sep. 1642.</date>
+               </dateline>
+               <signed>Your friend &amp; ſervant, <hi>Iohn Byron.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="8" facs="tcp:156069:6"/>
+            <!-- PDF PAGE 36 -->
+            <head>The names of the priſoners received by the Sheriffe of Middleſex of the Sheriffe of the County of Buckingham, the tenth day of <hi>September,</hi> 1642. And then delivered in<g ref="char:EOLhyphen"/>to the Gaole of Newgate.</head>
+            <list>
+               <item>IAmes Eſtin.</item>
+               <item>Robert Hardie.</item>
+               <item>Robert Hooton.</item>
+               <item>Robert Oliver.</item>
+               <item>Iohn Stoddarts.</item>
+               <item>William Craford.</item>
+               <item>George Robinſon.</item>
+               <item>George Browne.</item>
+               <item>Thomas Whitehead.</item>
+               <item>William Hebbard.</item>
+               <item>William Day.</item>
+               <item>Iohn Holliday.</item>
+               <item>Richard Moores.</item>
+               <item>Edward Davenport.</item>
+               <item>George Key.</item>
+               <item>Franc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Frickley,</item>
+               <item>Arch. Bell.</item>
+               <item>Ioſeph Low.</item>
+               <item>William Smith.</item>
+               <item>Nickolas Creſwell.</item>
+               <item>Thomas Bond.</item>
+               <item>Edward Gibſon.</item>
+               <item>Iohn Holſwerth.</item>
+               <item>Robert Pagget.</item>
+               <item>Thomas Langefeild.</item>
+               <item>Waltar Iames.</item>
+               <item>Henry Maſon.</item>
+               <item>Iohn Garret.</item>
+               <item>Andrew Brathwaith.</item>
+               <item>William Addington.</item>
+               <item>Ralfe Crompton.</item>
+               <item>William Browne.</item>
+               <item>Iohn Brace-girdle.</item>
+               <item>Lwirell Thrifte.</item>
+               <item>Iohn Greenwood.</item>
+               <item>Richard Thompſon.</item>
+               <item>Iohn Taylerſon.</item>
+               <item>Chriſtopher Foſter.</item>
+               <item>Iohn Berry.</item>
+               <item>Iohn Maling.</item>
+               <item>Edward Markyſon.</item>
+               <item>Iohn Holliday.</item>
+               <item>Robert Hardy.</item>
+               <item>William Bennet.</item>
+               <item>Iohn Lee.</item>
+               <item>Thomas Norwood.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
